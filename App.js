@@ -8,7 +8,7 @@ class App extends Component{
       <View>
         <Text>Olá Mundo</Text>
         <Text>Meu Primeiro App</Text>
-        <Text style={{ color: 'red', fontSize: 30}} >React-Native</Text>
+        <Text style={{ color: 'purple', fontSize: 30}} >React-Native</Text>
 
         <Image
           source={{ uri: img}}
